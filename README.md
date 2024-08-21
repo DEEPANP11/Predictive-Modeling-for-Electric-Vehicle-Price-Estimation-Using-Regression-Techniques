@@ -66,5 +66,5 @@ MAE: 0.12
 MSE: 0.02
 The Gradient Boosting Regressor provided the best performance in terms of R-squared and RMSE.
 
-
+<img src="D:\photos\college pht\IMG-20220802-WA0001.jpg">
 
